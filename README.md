@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sayan Banerjee</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 - 📫 How to reach me sayanbanerjee024@gmail.com
-<img align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="400">
+<img align="right" alt="coding" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" width="400">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sayanbanerjee24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sayanbanerjee24" height="30" width="40" /></a>
