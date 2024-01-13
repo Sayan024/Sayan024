@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sayan Banerjee</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<h6 align="left">- 📫 How to reach me **sayanbanerjee024@gmail.com**</h6>
+- 📫 How to reach me **sayanbanerjee024@gmail.com**
 <img align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="400">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
