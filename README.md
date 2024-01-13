@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Sayan Banerjee</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 📫 How to reach me **sayanbanerjee024@gmail.com**
